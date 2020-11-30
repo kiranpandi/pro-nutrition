@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.heading{
+  height: 120px;
+  background-color: purple;
+}
+
+.heading-text{
+  padding-top: 350px;
+  padding-right:1050px;
+  font-weight: bolder;
+  font-size: larger;
+   color: white;
+}
+/* 
+.food-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+} */
+
+.search{
+  padding-right: 1000px;
+  padding-bottom: 50px;
+}
